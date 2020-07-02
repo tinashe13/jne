@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>JNE</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;1,200;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="static/css/animate.css">
+    
+    <link rel="stylesheet" href="static/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="static/css/magnific-popup.css">
+    
+    <link rel="stylesheet" href="static/css/flaticon.css">
+    <link rel="stylesheet" href="static/css/style.css">
+  </head>
+  <body>
+
+  	<div class="wrap" style="background:white">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 d-flex align-items-center">
+						<p class="mb-0 phone pl-md-2">
+							<a href="#" class="mr-2" style="color:blue"><span class="fa fa-phone mr-1"></span> +000000000</a>
+							<a href="#"><span class="fa fa-paper-plane mr-1" style="color:blue"></span> youremail@jne.co.za</a>
+						</p>
+					</div>
+					<div class="col-md-6 d-flex justify-content-md-end">
+						<div class="social-media mr-4">
+			    		<p class="mb-0 d-flex">
+<!--			    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-facebook"><i class="sr-only">Facebook</i></span></a>-->
+<!--			    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-twitter"><i class="sr-only">Twitter</i></span></a>-->
+<!--			    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-instagram"><i class="sr-only">Instagram</i></span></a>-->
+<!--			    			<a href="#" class="d-flex align-items-center justify-content-center"><span class="fa fa-dribbble"><i class="sr-only">Dribbble</i></span></a>-->
+			    		</p>
+		        </div>
+		        <div class="reg">
+<!--		        	<p class="mb-0"><a href="#" class="mr-2">Sign Up</a> <a href="#">Log In</a></p>-->
+		        </div>
+					</div>
+				</div>
+			</div>
+		</div>
+    
+	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
+	    <div class="container">
+	      <a class="navbar-brand" style="color:blue" href="{% url 'main' %}">JNE </span>MACHINERY AND AUTOMOTIVE SOLUTIONS</a>
+	      <div class="order-lg-last btn-group">
+<!--          <a href="#" class="btn-cart dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+<!--          	<span class="flaticon-shopping-bag"></span>-->
+<!--          	<div class="d-flex justify-content-center align-items-center"><small>3</small></div>-->
+<!--          </a>-->
+
+
+	      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	          <li class="nav-item "><a href="{% url 'main' %}" class="nav-link">Home</a></li>
+	          <li class="nav-item"><a href="{% url 'contact' %}" class="nav-link">About</a></li>
+            
+				<li class="nav-item"><a href="{% url 'products' %}" class="nav-link">Shop</a></li>
+	          <li class="nav-item dropdown">
+              <a class="nav-link dropdown" href="{% url 'products' %}" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
+              <div class="dropdown-menu" aria-labelledby="dropdown03">
+				  {% for category in categories %}
+              	<a class="dropdown-item" href="{% url 'category' category.id %}">{{ category }}</a>
+				  {% empty %}
+				  <p>No Categories yet</p>
+				  {% endfor %}
+
+              </div>
+            </li>
+<!--	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>-->
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+
+    <!-- END nav -->
+    
+    <div class="hero-wrap" style="background-image: url('static/images/logo.png');" data-stellar-background-ratio="0.5">
+      <div class="overlay"></div>
+      <div class="container">
+        <div class="row no-gutters slider-text align-items-center justify-content-center">
+          <div class="col-md-8 ftco-animate d-flex align-items-end">
+          	<div class="text w-100 text-center">
+<!--	            <h1 class="mb-4">Welcome To<span><br></span> <span>JNE MACHINERY AND AUTOMOTIVE SOLUTIONS</span>.</h1>-->
+	            <p style=""><a href="{% url 'products' %}" class="btn  py-2 px-4" style="background:blue;color:white"><strong>SHOP</strong></a> </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <section class="ftco-intro" style="background:white;">
+    	<div class="container">
+    		<div class="row no-gutters">
+    			<div class="col-md-4 d-flex">
+    				<div class="intro d-lg-flex w-100 ftco-animate" style="background:blue">
+    					<div class="icon">
+    						<span class="flaticon-support"></span>
+    					</div>
+    					<div class="text">
+    						<h2>Support 24/7</h2>
+    						<p>We are always ready to take your call.</p>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-md-4 d-flex">
+    				<div class="intro color-1 d-lg-flex w-100 ftco-animate" style="background:white;">
+    					<div class="icon">
+    						<span class="flaticon-cashback"></span>
+    					</div>
+    					<div class="text" style="color:blue">
+    						<h2 style="color:black">Customer Focus</h2>
+    						<p>
+The dedication is creating lasting value and brand to a wide range
+of customers by developing and providing unique high end value
+surfacing solutions, striving to meet and excel customer
+expectations at every opportunity, as well as building lasting
+relationships.</p>
+    					</div>
+    				</div>
+    			</div>
+    			<div class="col-md-4 d-flex">
+    				<div class="intro color-2 d-lg-flex w-100 ftco-animate" style="background:blue">
+    					<div class="icon">
+    						<!-- <span class="flaticon-free-delivery"></span> -->
+    					</div>
+    					<div class="text">
+    						<h2>Development</h2>
+    						<p>We value individual contribution, encourage 
+self development and personal commitment to lifelong learning 
+with every employee of Uniclip Investments. We recognize that 
+valuable ideas come from individuals and corporate excellence 
+from the sum total of our collective ideas</p>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</div>
+    </section>
+
+    <section class="ftco-section ftco-no-pb">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 img img-3 d-flex justify-content-center align-items-center" style="background-image: url(static/images/logo.png);">
+					</div>
+					<div class="col-md-6 wrap-about pl-md-5 ftco-animate py-5">
+	          <div class="heading-section">
+<!--	          	<span class="subheading">Since 1905</span>-->
+	            <h2 class="mb-4" style="color:white">Welcome To JNE </h2>
+
+				  <p>We are dedicated in offering quality products and services that will
+add value and satisfy customer needs. We are market focused,
+innovative and committed to excellence in serving our customers</p>
+
+	            <p>The dedication is creating lasting value and brand to a wide range
+of customers by developing and providing unique high end value
+surfacing solutions, striving to meet and excel customer
+expectations at every opportunity, as well as building lasting
+relationships.</p>
+
+	            <p class="year">
+					<span style="color:white">Serving over</span>
+	            	<strong class="number" style="color:cyan" data-number="115">0</strong>
+					<span style="color:white;">Customers</span>
+
+	            </p>
+	          </div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="ftco-section ftco-no-pb">
+			<div class="container">
+				<div class="row">
+					{% for category in categories %}
+					<div class="col-lg-2 col-md-4 ">
+						<div class="sort w-100 text-center ftco-animate">
+							<a href="{% url 'category' category.id %}"><div class="img" style="background-image: url({{ category.image.url }});"></div></a>
+							<h3 style="color:white;">{{ category }}</h3>
+						</div>
+					</div>
+					{% empty %}
+					<center><h2>No Categories added yet</h2></center>
+					{% endfor %}
+				</div>
+			</div>
+		</section>
+
+		<section class="ftco-section">
+			<div class="container">
+				<div class="row justify-content-center pb-5">
+          <div class="col-md-7 heading-section text-center ftco-animate">
+          	<span class="subheading" style="color:white">Browse Our Feature Shop</span>
+            <h2 style="color:white">Featured Shop</h2>
+          </div>
+        </div>
+				<div class="row">
+					{% for product in products %}
+					<div class="col-md-3 d-flex">
+						<div class="product ftco-animate">
+							<div class="img d-flex align-items-center justify-content-center" style="background-image: url({{ product.image.url }});">
+								<div class="desc">
+									<p class="meta-prod d-flex">
+										<a href="#" class="d-flex align-items-center justify-content-center"><span >VIEW</span></a>
+
+									</p>
+								</div>
+							</div>
+							<div class="text text-center">
+								<span class="sale" style="background:white;color:blue">JNE</span>
+								<span class="category" style="color:cyan">{{ product.category }}</span>
+								<h2 style="color:white">{{ product }}</h2>
+<!--								<p class="mb-0"><span class="price price-sale">$69.00</span> <span class="price">$49.00</span></p>-->
+							</div>
+						</div>
+					</div>
+					{% empty %}
+					<h2>No Shop yet</h2>
+					{% endfor %}
+
+
+
+			</div>
+				<div class="row justify-content-center">
+					<div class="col-md-4">
+						<a href="{% url 'products' %}" class="btn d-block" style="color:blue;background:white" >View All Shop <span class="fa fa-long-arrow-right"></span></a>
+					</div>
+				</div>
+		</section>
+  
+    <section class="ftco-section testimony-section img" style="background-image: url(images/bg_4.jpg);">
+    	<div class="overlay"></div>
+      <div class="container">
+        <div class="row justify-content-center mb-5">
+          <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+<!--          	<span class="subheading">Testim</span>-->
+            <h2 class="mb-3">Manufacturers</h2>
+          </div>
+        </div>
+        <div class="row ftco-animate">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel ftco-owl">
+              <div class="item">
+                <div class="testimony-wrap py-4">
+<!--                	<div style="background:white" class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>-->
+                  <div class="text">
+<!--                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>-->
+                    <div class="d-flex align-items-center">
+<!--                    	<div class="user-img" style="background-image: url(static/images/flexco.png)"></div>-->
+                    	<div class="pl-3">
+		                    <img src="static/images/mitsubishi.jpg">
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+				<div class="item">
+                <div class="testimony-wrap py-4">
+<!--                	<div style="background:white" class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>-->
+                  <div class="text">
+<!--                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>-->
+                    <div class="d-flex align-items-center">
+<!--                    	<div class="user-img" style="background-image: url(static/images/flexco.png)"></div>-->
+                    	<div class="pl-3">
+		                    <img src="static/images/turck.png">
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+				<div class="item">
+                <div class="testimony-wrap py-4">
+<!--                	<div style="background:white" class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>-->
+                  <div class="text">
+<!--                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>-->
+                    <div class="d-flex align-items-center">
+<!--                    	<div class="user-img" style="background-image: url(static/images/flexco.png)"></div>-->
+                    	<div class="pl-3">
+		                    <img src="static/images/mitsubishi.jpg">
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+				<div class="item">
+                <div class="testimony-wrap py-4">
+<!--                	<div style="background:white" class="icon d-flex align-items-center justify-content-center"><span class="fa fa-quote-left"></div>-->
+                  <div class="text">
+<!--                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>-->
+                    <div class="d-flex align-items-center">
+<!--                    	<div class="user-img" style="background-image: url(static/images/flexco.png)"></div>-->
+                    	<div class="pl-3">
+		                    <img src="static/images/man.png">
+		                  </div>
+	                  </div>
+                  </div>
+                </div>
+              </div>
+
+
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+		
+
+
+    <footer class="ftco-footer">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4">
+              <h2 class="ftco-heading-2 logo"><a href="#">JNE<span>VALUES</span></a></h2>
+              <p>Our Core Values
+Professionalism
+Integrity
+Transparency
+Excellent Customer Service
+Building Strong Relationships
+Innovation
+Competence</p>
+              <ul class="ftco-footer-social list-unstyled mt-2">
+<!--                <li class="ftco-animate"><a href="#"><span class="fa fa-twitter"></span></a></li>-->
+<!--                <li class="ftco-animate"><a href="#"><span class="fa fa-facebook"></span></a></li>-->
+<!--                <li class="ftco-animate"><a href="#"><span class="fa fa-instagram"></span></a></li>-->
+              </ul>
+            </div>
+          </div>
+<!--          <div class="col-sm-12 col-md">-->
+<!--            <div class="ftco-footer-widget mb-4 ml-md-4">-->
+<!--              <h2 class="ftco-heading-2">My Accounts</h2>-->
+<!--              <ul class="list-unstyled">-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>My Account</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Register</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Log In</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>My Order</a></li>-->
+<!--              </ul>-->
+<!--            </div>-->
+<!--          </div>-->
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4 ml-md-4">
+              <h2 class="ftco-heading-2">Information</h2>
+              <ul class="list-unstyled">
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About us</a></li>
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Catalog</a></li>-->
+                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Term &amp; Conditions</a></li>-->
+              </ul>
+            </div>
+          </div>
+<!--          <div class="col-sm-12 col-md">-->
+<!--             <div class="ftco-footer-widget mb-4">-->
+<!--              <h2 class="ftco-heading-2">Quick Link</h2>-->
+<!--              <ul class="list-unstyled">-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>New User</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Help Center</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Report Spam</a></li>-->
+<!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Faq's</a></li>-->
+<!--              </ul>-->
+<!--            </div>-->
+<!--          </div>-->
+          <div class="col-sm-12 col-md">
+            <div class="ftco-footer-widget mb-4">
+            	<h2 class="ftco-heading-2">Have any Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon fa fa-map marker"></span><span class="text">Insert Address Here</span></li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+0000000</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@jne.co.za</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container-fluid px-0 py-5 bg-black">
+      	<div class="container">
+      		<div class="row">
+	          <div class="col-md-12">
+		
+	            <p class="mb-0" style="color: rgba(255,255,255,.5);"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
+	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
+	          </div>
+	        </div>
+      	</div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="static/js/jquery.min.js"></script>
+  <script src="static/js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="static/js/popper.min.js"></script>
+  <script src="static/js/bootstrap.min.js"></script>
+  <script src="static/js/jquery.easing.1.3.js"></script>
+  <script src="static/js/jquery.waypoints.min.js"></script>
+  <script src="static/js/jquery.stellar.min.js"></script>
+  <script src="static/js/owl.carousel.min.js"></script>
+  <script src="static/js/jquery.magnific-popup.min.js"></script>
+  <script src="static/js/jquery.animateNumber.min.js"></script>
+  <script src="static/js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="static/js/google-map.js"></script>
+  <script src="static/js/main.js"></script>
+    
+  </body>
+</html>
