@@ -1,0 +1,533 @@
+[17/Jul/2020 14:43:15] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:43:16] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:16] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:16] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:16] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:16] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:16] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:17] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:18] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:18] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:26] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:43:27] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:43:27] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:43:27] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:43:27] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:43:27] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:43:27] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:43:28] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:43:28] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:43:28] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:43:28] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:43:29] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:43:29] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:43:29] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:43:29] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:43:29] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:43:30] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:43:30] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:43:30] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:43:30] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:43:31] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:43:31] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:43:32] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:43:33] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:43:33] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:33] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:34] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:34] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:34] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:34] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:34] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:35] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:43:36] "GET /favicon.ico HTTP/1.1" 404 179
+[17/Jul/2020 14:43:43] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:43:44] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:43:44] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:43:44] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:43:44] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:43:45] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:43:45] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:43:45] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:43:45] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:43:45] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:43:46] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:43:46] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:43:46] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:43:46] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:43:46] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:43:46] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:43:47] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:43:47] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:43:47] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:43:47] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:43:48] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:43:48] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:43:49] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:49] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:49] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:49] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:43:49] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:43:49] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:49] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:50] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:50] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:50] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:50] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:50] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:51] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:43:52] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:45:06] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:46:49] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:46:50] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:46:50] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:46:50] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:46:50] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:46:50] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:46:50] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:46:50] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:46:51] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:46:51] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:46:51] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:46:51] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:46:52] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:46:52] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:46:52] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:46:52] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:46:53] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:46:53] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:46:53] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:46:53] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:46:53] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:46:54] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:46:54] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:46:55] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:46:55] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:55] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:56] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:56] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:56] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:56] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:56] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:46:57] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:47:13] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:48:26] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:48:26] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:48:44] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:48:44] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:44] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:44] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:44] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:44] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:44] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:45] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:46] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:46] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:48:46] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:02] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:03] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:03] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:03] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:03] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:03] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:03] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:04] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:05] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:05] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:05] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:26] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:27] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:38] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:39] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:49:39] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:49:39] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:49:39] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:49:39] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:39] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:49:39] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:49:40] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:49:40] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:49:40] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:49:40] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:49:41] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:49:41] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:49:42] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:49:42] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:49:42] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:49:42] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:49:43] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:49:43] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:49:44] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:49:44] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:49:44] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:49:44] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:49:45] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:49:46] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:46] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:46] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:46] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:47] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:48] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:48] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:48] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:48] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:48] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:49] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:49:49] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:49:49] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:49:50] "GET /favicon.ico HTTP/1.1" 404 179
+[17/Jul/2020 14:49:54] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:50:16] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:50:17] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:50:17] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:50:17] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:50:17] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:50:17] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:50:18] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:50:18] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:50:18] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:50:18] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:50:18] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:50:19] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:50:19] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:50:19] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:50:19] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:50:19] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:50:19] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:50:20] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:50:20] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:50:20] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:50:21] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:50:21] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:50:21] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:50:23] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:50:23] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:23] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:24] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:25] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:25] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:25] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:50:25] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:25] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:50:26] "GET /favicon.ico HTTP/1.1" 404 179
+[17/Jul/2020 14:50:30] "GET /static/js/popper.min.js.map HTTP/1.1" 404 13
+[17/Jul/2020 14:50:30] "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 13
+[17/Jul/2020 14:51:10] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:51:11] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:11] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /static/js/popper.min.js.map HTTP/1.1" 404 13
+[17/Jul/2020 14:51:12] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /static/js/bootstrap.min.js.map HTTP/1.1" 404 13
+[17/Jul/2020 14:51:12] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:12] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:13] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:13] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:13] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:51:21] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:51:38] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:52:01] "GET /static/imagesdiamon.jpg HTTP/1.1" 404 13
+[17/Jul/2020 14:52:05] "GET /static/images/diamon.jpg HTTP/1.1" 404 13
+[17/Jul/2020 14:52:18] "GET /5/products HTTP/1.1" 200 17270
+[17/Jul/2020 14:52:19] "GET /5/images/bg_2.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:52:19] "GET /media/media/optic_fibre.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:05] "GET /admin HTTP/1.1" 301 0
+[17/Jul/2020 14:53:06] "GET /admin/ HTTP/1.1" 302 0
+[17/Jul/2020 14:53:07] "GET /admin/login/?next=/admin/ HTTP/1.1" 200 1913
+[17/Jul/2020 14:53:07] "GET /static/admin/css/responsive.css HTTP/1.1" 200 18052
+[17/Jul/2020 14:53:07] "GET /static/admin/css/base.css HTTP/1.1" 200 16378
+[17/Jul/2020 14:53:07] "GET /static/admin/css/login.css HTTP/1.1" 200 1233
+[17/Jul/2020 14:53:08] "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+[17/Jul/2020 14:53:09] "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+[17/Jul/2020 14:53:09] "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+[17/Jul/2020 14:53:15] "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2078
+[17/Jul/2020 14:53:17] "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+[17/Jul/2020 14:53:43] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:53:44] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:44] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:53:45] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:54:32] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:55:04] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 14:55:04] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 14:55:04] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 14:55:04] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 14:55:05] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 14:55:05] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 14:55:05] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 14:55:05] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 14:55:05] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 14:55:05] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 14:55:05] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 14:55:05] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 14:55:05] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 14:55:05] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 14:55:05] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 14:55:05] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 14:55:05] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 14:55:05] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 14:55:05] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 14:55:05] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 14:55:05] "GET /media/media/electricals.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/mcb.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:05] "GET /media/media/contactor.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:06] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:06] "GET /media/media/relay.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:06] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:55:06] "GET /images/bg_4.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:00] "GET /1/products HTTP/1.1" 200 22316
+[17/Jul/2020 14:57:01] "GET /1/images/bg_2.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:01] "GET /media/media/diamon.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:01] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:01] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:01] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:01] "GET /media/media/modular_belt.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:02] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 404 179
+[17/Jul/2020 14:57:02] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 404 179
+  File "manage.py", line 16
+    ) from exc
+         ^
+SyntaxError: invalid syntax
+Watching for file changes with StatReloader
+[17/Jul/2020 15:13:39] "GET / HTTP/1.1" 200 30662
+[17/Jul/2020 15:13:40] "GET /static/css/owl.carousel.min.css HTTP/1.1" 200 3440
+[17/Jul/2020 15:13:40] "GET /static/css/owl.theme.default.min.css HTTP/1.1" 200 965
+[17/Jul/2020 15:13:40] "GET /static/css/magnific-popup.css HTTP/1.1" 200 6950
+[17/Jul/2020 15:13:40] "GET /static/css/flaticon.css HTTP/1.1" 200 1370
+[17/Jul/2020 15:13:40] "GET /static/js/jquery-migrate-3.0.1.min.js HTTP/1.1" 200 11421
+[17/Jul/2020 15:13:40] "GET /static/js/popper.min.js HTTP/1.1" 200 19032
+[17/Jul/2020 15:13:41] "GET /static/css/animate.css HTTP/1.1" 200 73641
+[17/Jul/2020 15:13:41] "GET /static/js/jquery.easing.1.3.js HTTP/1.1" 200 8111
+[17/Jul/2020 15:13:41] "GET /static/js/jquery.waypoints.min.js HTTP/1.1" 200 8835
+[17/Jul/2020 15:13:41] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 55775
+[17/Jul/2020 15:13:41] "GET /static/js/jquery.stellar.min.js HTTP/1.1" 200 12597
+[17/Jul/2020 15:13:42] "GET /static/js/owl.carousel.min.js HTTP/1.1" 200 43237
+[17/Jul/2020 15:13:42] "GET /static/js/jquery.magnific-popup.min.js HTTP/1.1" 200 20216
+[17/Jul/2020 15:13:42] "GET /static/js/jquery.animateNumber.min.js HTTP/1.1" 200 1391
+[17/Jul/2020 15:13:42] "GET /static/js/scrollax.min.js HTTP/1.1" 200 7447
+[17/Jul/2020 15:13:42] "GET /static/js/google-map.js HTTP/1.1" 200 1946
+[17/Jul/2020 15:13:43] "GET /static/js/main.js HTTP/1.1" 200 5821
+[17/Jul/2020 15:13:43] "GET /static/images/mitsubishi.jpg HTTP/1.1" 200 30020
+[17/Jul/2020 15:13:43] "GET /static/images/turck.png HTTP/1.1" 200 7072
+[17/Jul/2020 15:13:43] "GET /static/images/man.png HTTP/1.1" 200 12239
+[17/Jul/2020 15:13:44] "GET /static/css/style.css HTTP/1.1" 200 267112
+[17/Jul/2020 15:13:44] "GET /static/images/logo.png HTTP/1.1" 200 148226
+[17/Jul/2020 15:13:44] "GET /media/media/Fiber-Optic-Cable.jpg HTTP/1.1" 200 27833
+[17/Jul/2020 15:13:44] "GET /media/media/Kluber-Food-Grade-Lubricants-Greases-Oils-Sprays-300x225.jpg HTTP/1.1" 200 21596
+[17/Jul/2020 15:13:45] "GET /media/media/electricals.jpg HTTP/1.1" 200 52820
+[17/Jul/2020 15:13:45] "GET /static/fonts/flaticon/font/Flaticon.woff HTTP/1.1" 200 3056
+[17/Jul/2020 15:13:45] "GET /media/media/conveyor_chain.jpg HTTP/1.1" 200 20048
+[17/Jul/2020 15:13:45] "GET /media/media/ac-power-connector-types-electrical-power-cable-connectors.jpg HTTP/1.1" 200 83014
+[17/Jul/2020 15:13:46] "GET /media/media/bearings-500x500.jpg HTTP/1.1" 200 44716
+[17/Jul/2020 15:13:46] "GET /static/js/jquery.min.js HTTP/1.1" 200 268038
+[17/Jul/2020 15:13:46] "GET /media/media/contactor.jpg HTTP/1.1" 200 54475
+[17/Jul/2020 15:13:46] "GET /media/media/mcb.jpg HTTP/1.1" 200 81853
+[17/Jul/2020 15:13:47] "GET /media/media/proximity_indunctive.jpeg HTTP/1.1" 200 54124
+[17/Jul/2020 15:13:47] "GET /media/media/conveyor_chain_sci8QlM.jpg HTTP/1.1" 200 20048
+[17/Jul/2020 15:13:47] "GET /media/media/relay.jpg HTTP/1.1" 200 24004
+[17/Jul/2020 15:13:47] "GET /media/media/AlligatorLacingFastenrs_product.jpg HTTP/1.1" 200 50551
+[17/Jul/2020 15:13:47] "GET /media/media/bore_sprocket.jpg HTTP/1.1" 200 29318
+[17/Jul/2020 15:13:47] "GET /media/media/modular_belt.jpg HTTP/1.1" 200 4762
+[17/Jul/2020 15:13:47] "GET /media/media/pvc-rough-top-conveyor-belt-500x500.jpg HTTP/1.1" 200 54482
+[17/Jul/2020 15:13:48] "GET /media/media/diamon.jpg HTTP/1.1" 200 4282
+Not Found: /images/bg_4.jpg
+[17/Jul/2020 15:13:48] "GET /images/bg_4.jpg HTTP/1.1" 404 3394
+[17/Jul/2020 15:13:48] "GET /media/media/ac_motor_driver.jpg HTTP/1.1" 200 211316
+[17/Jul/2020 15:13:56] "GET /media/media/idler_sprockets.jpg HTTP/1.1" 200 607874
+Not Found: /favicon.ico
+[17/Jul/2020 15:13:57] "GET /favicon.ico HTTP/1.1" 404 3382
+[17/Jul/2020 15:14:20] "GET / HTTP/1.1" 200 30662
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 17, 2020 - 15:13:30
+Django version 3.0.8, using settings 'jne.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[17/Jul/2020 15:16:33] "GET / HTTP/1.1" 301 0
+[17/Jul/2020 15:16:33] code 400, message Bad request version ('¢Bì;\x81\x11X\x93\x91\x82¼Ã¶3N0b')
+[17/Jul/2020 15:16:33] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:34] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ªª\x00\x00\x00\x00\x00\x17\x00\x15\x00\x00\x12jnemachinery.co.za\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Jul/2020 15:16:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:34] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03'\x9a\x05\x8b\x11W\x99M\x95»}<6\x12øt¥qþ\x95\x8a\x97b#«Ï¦m\x96MJY")
+[17/Jul/2020 15:16:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:34] code 400, message Bad request version ('}ñÂ3¥®|Õ\x94ªÜ«\\iÚLîÈ*+[ý{\x9f\x82»¸;ãÆ\x9dÔ\x00"ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[17/Jul/2020 15:16:34] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:37] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ÚFã\x9b\x90\x9dfþµ²^i')
+[17/Jul/2020 15:16:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:38] code 400, message Bad request version ('ZZ\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93JJ\x00\x00\x00\x00\x00\x17\x00\x15\x00\x00\x12jnemachinery.co.za\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Jul/2020 15:16:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:38] code 400, message Bad request version ('X~¹¦Ñ\x03\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[17/Jul/2020 15:16:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:38] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03Ø\x94×ÆØ@Süpãâ\x026w')
+[17/Jul/2020 15:16:38] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:41] code 400, message Bad request version ('ÒÆw@¥')
+[17/Jul/2020 15:16:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:41] code 400, message Bad request version ('\x9a\x9a\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93::\x00\x00\x00\x00\x00\x17\x00\x15\x00\x00\x12jnemachinery.co.za\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Jul/2020 15:16:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:42] code 400, message Bad request version ('\x81\x83Å¶\x0ejm\x9cïúp}')
+[17/Jul/2020 15:16:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:16:42] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03d\x1aY×ë\x996'<ñöüð,,XBøéíæ¬\x1a²È\x89d\xad²Å\x98u")
+[17/Jul/2020 15:16:42] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 17, 2020 - 15:16:28
+Django version 3.0.8, using settings 'jne.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+Watching for file changes with StatReloader
+[17/Jul/2020 15:17:36] code 400, message Bad request version ('jj\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x01\x00\x01\x93ZZ\x00\x00\x00\x00\x00\x17\x00\x15\x00\x00\x12jnemachinery.co.za\x00\x17\x00\x00ÿ\x01\x00\x01\x00\x00')
+[17/Jul/2020 15:17:36] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:17:37] code 400, message Bad request version ('\x89]5.¼&_²×uÏÃ\x8fü3¢»\x00')
+[17/Jul/2020 15:17:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:17:37] code 400, message Bad request version ('«\x00"ºº\x13\x01\x13\x02\x13\x03À+À/À,À0Ì©Ì¨À\x13À\x14\x00\x9c\x00\x9d\x00/\x005\x00')
+[17/Jul/2020 15:17:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[17/Jul/2020 15:17:37] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ëý¾DCó¥º9\x18Eï9Ê°õî³×®¹C\x07ó¦>Þ\x00~Ïò¢')
+[17/Jul/2020 15:17:37] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 17, 2020 - 15:17:30
+Django version 3.0.8, using settings 'jne.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.

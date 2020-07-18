@@ -23,9 +23,9 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'h4o)(^&6omj9==6=&gdm8y8z+o1759o)qqrwvh34)yub!5bg#e'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['.herokuapp.com', '.co.za']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
@@ -114,9 +114,13 @@ USE_L10N = True
 
 USE_TZ = True
 
+#SECURE_SSL_REDIRECT =True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
-STATIC_ROOT = os.path.join(BASE_DIR, 'static')
+import glob
+#print(glob.glob('*'))
+print(BASE_DIR)
+STATIC_ROOT = os.path.join(BASE_DIR, 'static') #os.
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'

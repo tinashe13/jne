@@ -10,7 +10,8 @@ urlpatterns = [
     path('products', views.products, name='products'),
     path('contact', views.contact, name='contact'),
     path('about', views.about, name='about'),
-    path('<int:category_id>/products', views.products_by_cat, name='category'),
+    path('<int:category_id>/products', 
+views.products_by_cat, name='category'),
     path('<int:product_id>/product', views.product_single, name='product')
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
