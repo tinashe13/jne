@@ -28,7 +28,7 @@
 				<div class="row">
 					<div class="col-md-6 d-flex align-items-center">
 						<p class="mb-0 phone pl-md-2">
-							<a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +00 1234 567</a> 
+							<a href="#" class="mr-2"><span class="fa fa-phone mr-1"></span> +00 1234 567</a>
 							<a href="#"><span class="fa fa-paper-plane mr-1"></span> youremail@email.com</a>
 						</p>
 					</div>
@@ -48,7 +48,7 @@
 				</div>
 			</div>
 		</div>
-    
+
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" href="{% url 'main' %}">JNE </span>MACHINERY AND AUTOMOTIVE SOLUTIONS</a>
@@ -85,7 +85,7 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
-    
+
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
@@ -212,9 +212,12 @@ Competence</p>
             	<h2 class="ftco-heading-2">Have any Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map marker"></span><span class="text">Insert Address Here</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+0000000</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@jne.co.za</span></a></li>
+	                <li><span class="icon fa fa-map marker"></span><span class="text">Unity 11, City Deep Production Park</span></li>
+                  <li>Heidelberg Road</li>
+                  <li>Johannesburg, South Africa</li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+27640645718</span></a></li>
+                  <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+27622750525</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">sales@jnemachinery.co.za</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -234,8 +237,8 @@ Competence</p>
       	</div>
       </div>
     </footer>
-    
-  
+
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -262,19 +265,19 @@ Competence</p>
 
 		var quantitiy=0;
 		   $('.quantity-right-plus').click(function(e){
-		        
+
 		        // Stop acting like a button
 		        e.preventDefault();
 		        // Get the field name
 		        var quantity = parseInt($('#quantity').val());
-		        
+
 		        // If is not undefined
-		            
+
 		            $('#quantity').val(quantity + 1);
 
-		          
+
 		            // Increment
-		        
+
 		    });
 
 		     $('.quantity-left-minus').click(function(e){
@@ -282,17 +285,17 @@ Competence</p>
 		        e.preventDefault();
 		        // Get the field name
 		        var quantity = parseInt($('#quantity').val());
-		        
+
 		        // If is not undefined
-		      
+
 		            // Increment
 		            if(quantity>0){
 		            $('#quantity').val(quantity - 1);
 		            }
 		    });
-		    
+
 		});
 	</script>
-    
+
   </body>
 </html>

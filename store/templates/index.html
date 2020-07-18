@@ -4,17 +4,17 @@
     <title>JNE</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;1,200;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="static/css/animate.css">
-    
+
     <link rel="stylesheet" href="static/css/owl.carousel.min.css">
     <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="static/css/magnific-popup.css">
-    
+
     <link rel="stylesheet" href="static/css/flaticon.css">
     <link rel="stylesheet" href="static/css/style.css">
   </head>
@@ -25,8 +25,8 @@
 				<div class="row">
 					<div class="col-md-6 d-flex align-items-center">
 						<p class="mb-0 phone pl-md-2">
-							<a href="#" class="mr-2" style="color:blue"><span class="fa fa-phone mr-1"></span> +000000000</a>
-							<a href="#"><span class="fa fa-paper-plane mr-1" style="color:blue"></span> youremail@jne.co.za</a>
+							<a href="#" class="mr-2" style="color:blue"><span class="fa fa-phone mr-1"></span> +2764-064-5718</a>
+							<a href="#"><span class="fa fa-paper-plane mr-1" style="color:blue"></span> sales@jne.co.za</a>
 						</p>
 					</div>
 					<div class="col-md-6 d-flex justify-content-md-end">
@@ -45,7 +45,7 @@
 				</div>
 			</div>
 		</div>
-    
+
 	  <nav class="navbar navbar-expand-lg navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container">
 	      <a class="navbar-brand" style="color:blue" href="{% url 'main' %}">JNE </span>MACHINERY AND AUTOMOTIVE SOLUTIONS</a>
@@ -64,7 +64,7 @@
 	        <ul class="navbar-nav ml-auto">
 	          <li class="nav-item "><a href="{% url 'main' %}" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="{% url 'contact' %}" class="nav-link">About</a></li>
-            
+
 				<li class="nav-item"><a href="{% url 'products' %}" class="nav-link">Shop</a></li>
 	          <li class="nav-item dropdown">
               <a class="nav-link dropdown" href="{% url 'products' %}" id="dropdown04" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Categories</a>
@@ -78,14 +78,14 @@
               </div>
             </li>
 <!--	          <li class="nav-item"><a href="blog.html" class="nav-link">Blog</a></li>-->
-	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	          <li class="nav-item"><a href="{% url 'contact' %}" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>
 	  </nav>
 
     <!-- END nav -->
-    
+
     <div class="hero-wrap" style="background-image: url('static/images/logo.png');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
@@ -137,10 +137,10 @@ relationships.</p>
     					</div>
     					<div class="text">
     						<h2>Development</h2>
-    						<p>We value individual contribution, encourage 
-self development and personal commitment to lifelong learning 
-with every employee of Uniclip Investments. We recognize that 
-valuable ideas come from individuals and corporate excellence 
+    						<p>We value individual contribution, encourage
+self development and personal commitment to lifelong learning
+with every employee of Uniclip Investments. We recognize that
+valuable ideas come from individuals and corporate excellence
 from the sum total of our collective ideas</p>
     					</div>
     				</div>
@@ -214,8 +214,8 @@ relationships.</p>
 							<div class="img d-flex align-items-center justify-content-center" style="background-image: url({{ product.image.url }});">
 								<div class="desc">
 									<p class="meta-prod d-flex">
-										<a href="{% url 'product' product.id %}" 
-class="d-flex 
+										<a href="{% url 'product' product.id %}"
+class="d-flex
 align-items-center justify-content-center"><span >VIEW</span></a>
 
 									</p>
@@ -242,7 +242,7 @@ align-items-center justify-content-center"><span >VIEW</span></a>
 					</div>
 				</div>
 		</section>
-  
+
     <section class="ftco-section testimony-section img" style="background-image: url(images/bg_4.jpg);">
     	<div class="overlay"></div>
       <div class="container">
@@ -322,7 +322,7 @@ align-items-center justify-content-center"><span >VIEW</span></a>
     </section>
 
 
-		
+
 
 
     <footer class="ftco-footer">
@@ -384,9 +384,13 @@ Competence</p>
             	<h2 class="ftco-heading-2">Have any Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map marker"></span><span class="text">Insert Address Here</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+0000000</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@jne.co.za</span></a></li>
+	                <li><span class="icon fa fa-map marker"></span><span class="text">Unit 11, City Deep Production Park</span></li>
+                  <li>  Heidelberg Road </li>
+                  <li><strong>Johannesburg</strong></li>
+                  <br>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+27640645718</span></a></li>
+                  <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+2762-275-0525</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">sales@jne.co.za</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -397,7 +401,7 @@ Competence</p>
       	<div class="container">
       		<div class="row">
 	          <div class="col-md-12">
-		
+
 	            <p class="mb-0" style="color: rgba(255,255,255,.5);"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 	  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 	  <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
@@ -406,8 +410,8 @@ Competence</p>
       	</div>
       </div>
     </footer>
-    
-  
+
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -427,6 +431,6 @@ Competence</p>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="static/js/google-map.js"></script>
   <script src="static/js/main.js"></script>
-    
+
   </body>
 </html>

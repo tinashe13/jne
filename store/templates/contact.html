@@ -4,17 +4,17 @@
     <title>JNE </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
+
     <link href="https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,200;0,300;0,400;0,500;0,700;0,800;1,200;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <link rel="stylesheet" href="static/css/animate.css">
-    
+
     <link rel="stylesheet" href="static/css/owl.carousel.min.css">
     <link rel="stylesheet" href="static/css/owl.theme.default.min.css">
     <link rel="stylesheet" href="static/css/magnific-popup.css">
-    
+
     <link rel="stylesheet" href="static/css/flaticon.css">
     <link rel="stylesheet" href="static/css/style.css">
   </head>
@@ -25,8 +25,8 @@
 				<div class="row">
 					<div class="col-md-6 d-flex align-items-center">
 						<p class="mb-0 phone pl-md-2">
-							<a href="#" class="mr-2" style="color:blue"><span class="fa fa-phone mr-1"></span> +000000000</a>
-							<a href="#"><span class="fa fa-paper-plane mr-1" style="color:blue"></span> youremail@jne.co.za</a>
+							<a href="#" class="mr-2" style="color:blue"><span class="fa fa-phone mr-1"></span> +27640645718</a>
+							<a href="#"><span class="fa fa-paper-plane mr-1" style="color:blue"></span>sales@jnemachinery.co.za</a>
 						</p>
 					</div>
 					<div class="col-md-6 d-flex justify-content-md-end">
@@ -83,13 +83,14 @@
 	    </div>
 	  </nav>
     <!-- END nav -->
-    
+
     <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_2.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
           <div class="col-md-9 ftco-animate mb-5 text-center">
           	<p class="breadcrumbs mb-0"><span class="mr-2"><a href="index.html">Home <i class="fa fa-chevron-right"></i></a></span> <span>Contact Us <i class="fa fa-chevron-right"></i></span></p>
+            <li style="color:white">{{ message }}</li>
             <h2 class="mb-0 bread">Contact Us</h2>
           </div>
         </div>
@@ -108,7 +109,7 @@
 				        			<span  class="fa fa-map-marker"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+					            <p style="color:blue"><span>Address:</span> Unit 11 City Deep Production Park, Heidelberg Road. <br>Johannesburg, South Arica</p>
 					          </div>
 				          </div>
 								</div>
@@ -118,7 +119,7 @@
 				        			<span class="fa fa-phone"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+					            <p><span>Phone:</span> <a style="color:blue" href="tel://+27640645718">+27640645718 / +27622750525</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -128,7 +129,7 @@
 				        			<span class="fa fa-paper-plane"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+					            <p><span>Email:</span> <a style="color:blue" href="mailto:sales@jnemachinery.co.za">sales@jnemachinery.co.za</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -138,7 +139,7 @@
 				        			<span class="fa fa-globe"></span>
 				        		</div>
 				        		<div class="text">
-					            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+					            <p><span>Website</span> <a style="color:blue" href="http://jnemachinery.co.za">jnemachinery.co.za</a></p>
 					          </div>
 				          </div>
 								</div>
@@ -146,24 +147,25 @@
 							<div class="row no-gutters">
 								<div class="col-md-7">
 									<div class="contact-wrap w-100 p-md-5 p-4">
-										<h3 class="mb-4">Contact Us</h3>
-										<form method="POST" id="contactForm" name="contactForm" class="contactForm">
+										<h3 class="mb-4" style="color:blue" >Contact Us</h3>
+										<form method="POST" action="{% url 'contact' %}" name="contactForm" class="contactForm">
+                      {% csrf_token %}
 											<div class="row">
 												<div class="col-md-6">
 													<div class="form-group">
-														<label class="label" for="name">Full Name</label>
+														<label class="label" style="color:blue" for="name">Full Name</label>
 														<input type="text" class="form-control" name="name" id="name" placeholder="Name">
 													</div>
 												</div>
-												<div class="col-md-6"> 
+												<div class="col-md-6">
 													<div class="form-group">
-														<label class="label" for="email">Email Address</label>
+														<label class="label" for="email" style="color:blue" >Your Email Address</label>
 														<input type="email" class="form-control" name="email" id="email" placeholder="Email">
 													</div>
 												</div>
 												<div class="col-md-12">
 													<div class="form-group">
-														<label class="label" for="subject">Subject</label>
+														<label class="label" style="color:blue" for="subject">Subject</label>
 														<input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
 													</div>
 												</div>
@@ -175,7 +177,7 @@
 												</div>
 												<div class="col-md-12">
 													<div class="form-group">
-														<input type="submit" value="Send Message" class="btn btn-primary">
+														<input type="submit" style="background:blue;color:white" value="Send Message" class="btn ">
 														<div class="submitting"></div>
 													</div>
 												</div>
@@ -184,7 +186,7 @@
 									</div>
 								</div>
 								<div class="col-md-5 order-md-first d-flex align-items-stretch">
-									<div id="map" class="map"></div>
+									<!-- <div id="map" class="map"></div> -->
 								</div>
 							</div>
 						</div>
@@ -229,9 +231,10 @@ Competence</p>
             <div class="ftco-footer-widget mb-4 ml-md-4">
               <h2 class="ftco-heading-2">Information</h2>
               <ul class="list-unstyled">
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About us</a></li>
+                <!-- <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>About us</a></li> -->
 <!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Catalog</a></li>-->
-                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
+                <li><a href="{% url 'contact' %}"><span class="fa fa-chevron-right mr-2"></span>Contact us</a></li>
+
 <!--                <li><a href="#"><span class="fa fa-chevron-right mr-2"></span>Term &amp; Conditions</a></li>-->
               </ul>
             </div>
@@ -252,9 +255,10 @@ Competence</p>
             	<h2 class="ftco-heading-2">Have any Questions?</h2>
             	<div class="block-23 mb-3">
 	              <ul>
-	                <li><span class="icon fa fa-map marker"></span><span class="text">Insert Address Here</span></li>
-	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+0000000</span></a></li>
-	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">info@jne.co.za</span></a></li>
+	                <li><span class="icon fa fa-map marker"></span><span class="text">Unit 11, City Deep Production Park, Heidelberg Road</span></li>
+                  <li>Johannesburg, South Africa</li>
+	                <li><a href="#"><span class="icon fa fa-phone"></span><span class="text">+27640645718 / +27622750525</span></a></li>
+	                <li><a href="#"><span class="icon fa fa-paper-plane pr-4"></span><span class="text">sales@jnemachinery.co.za</span></a></li>
 	              </ul>
 	            </div>
             </div>
@@ -274,8 +278,8 @@ Competence</p>
       	</div>
       </div>
     </footer>
-    
-  
+
+
 
   <!-- loader -->
   <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
@@ -295,6 +299,6 @@ Competence</p>
   <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
   <script src="static/js/google-map.js"></script>
   <script src="static/js/main.js"></script>
-    
+
   </body>
 </html>

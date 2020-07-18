@@ -49,6 +49,14 @@ def products(request):
 
 
 def contact(request):
+    if request.method == 'POST':
+        name = request.POST.get('name')
+        email = request.POST['email']
+        message = request.POST['message']
+        context = {
+            'message' :"Message Sent. Feel free to email us directly"
+        }
+        return render(request, 'contact.html', context)
     return render(request, 'contact.html')
 
 
